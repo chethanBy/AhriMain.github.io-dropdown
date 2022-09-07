@@ -12,6 +12,7 @@ code {
     monospace;
 }
 
+/* CSS Variables */
 :root {
   --bg: #242526;
   --bg-accent: #484a4d;
@@ -21,13 +22,16 @@ code {
   --border-radius: 8px;
   --speed: 500ms;
 }
+
+body {
+  background-color: var(--text-color);
+}
 /* over-riding default styling */
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
-
 a {
   color: var(--text-color);
   text-decoration: none;

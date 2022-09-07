@@ -4,10 +4,12 @@ import "./DropdownItem.css";
 const DropdownItem = (props) => {
   return (
     <>
-      <a className="menu-item">
+      <a
+        className="menu-item"
+        onClick={() => props.goToMenu && props.setActive(props.goToMenu)}
+      >
         <span className="icon-button">{props.leftIcon}</span>
         {props.children}
-        <span className="icon-right">{props.rightIcon}</span>
       </a>
     </>
   );
