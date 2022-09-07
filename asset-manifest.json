@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AhriMain.github.io-dropdown/static/css/main.71670541.css",
+    "main.js": "/AhriMain.github.io-dropdown/static/js/main.27977a8e.js",
+    "index.html": "/AhriMain.github.io-dropdown/index.html",
+    "main.71670541.css.map": "/AhriMain.github.io-dropdown/static/css/main.71670541.css.map",
+    "main.27977a8e.js.map": "/AhriMain.github.io-dropdown/static/js/main.27977a8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71670541.css",
+    "static/js/main.27977a8e.js"
+  ]
+}
