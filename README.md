@@ -4,5 +4,4 @@ Check live working here:
 https://chethanby.github.io/AhriMain.github.io-dropdown/
 
 Preview of working
-https://user-images.githubusercontent.com/96552515/189476429-633a3c19-75c3-4f82-9629-c2c12a67552b.mp4
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/96552515/189476537-15d578a8-e005-458f-9807-b78c772af145.gif)
