@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Mini Project : Multi-level Dropdown level like Facebook with Animations.
 
@@ -26,4 +25,4 @@ Preview of working
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/96552515/189476659-eb5e1c11-7604-403f-8ed6-0c566fb710e1.gif)
->>>>>>> d00f670270eaef360eb256d0c423cfc261d5d6fe
+
